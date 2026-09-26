@@ -38,10 +38,10 @@ Mahasiswa semester 5 **Teknologi Rekayasa Otomasi** di Politeknik Negeri Madiun.
 ###  Connect
 
 <p align="center">
-  <a href="mailto:abiroots22@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF" /></a>
+  <a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF" /></a>
   <a href="https://www.linkedin.com/in/abimanyu-erwantama-88191043a/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" /></a>
   <a href="https://instagram.com/manyu.e"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FFFFFF" /></a>
-  <a href="https://wa.me/6289528304827"><img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF" /></a>
+  
 </p>
 
 ---
