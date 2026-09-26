@@ -2,39 +2,40 @@
 <!--              ABIMANYU ERWANTAMA — MONOCHROME                -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<!-- ═══════════ WAVE BANNER (HITAM SOLID) ═══════════ -->
+<!-- ═══════════ WAVE BANNER HITAM ═══════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=footer&text=Abimanyu%20Erwantama&fontSize=32&fontColor=FFFFFF&animation=fadeIn&fontAlignY=65&desc=Automation%20Engineer%20%C2%B7%20Politeknik%20Negeri%20Madiun&descAlignY=85&descSize=14" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Abimanyu%20Erwantama&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Automation%20Engineer%20%C2%B7%20Politeknik%20Negeri%20Madiun&descAlignY=60&descSize=14" width="100%" />
 </p>
-<!-- ═══════════ TYPING ANIMATION (PUTIH) ═══════════ -->
+
+<!-- ═══════════ TYPING ANIMATION PUTIH ═══════════ -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abimanyu+Erwantama;Automation+Engineering+Student;IoT+%26+PLC+Enthusiast;Open+to+Internship" alt="Typing" />
 </p>
 
-<!-- ═══════════ DIVIDER MONOCHROME ═══════════ -->
+<!-- ═══════════ DIVIDER HITAM ═══════════ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3" width="100%" />
 </p>
 
-<!-- ═══════════ STATUS BADGES ═══════════ -->
+<!-- ═══════════ STATUS BADGES (HITAM-PUTIH) ═══════════ -->
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20INTERNSHIP-000000?style=for-the-badge&labelColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/LOCATION-MADIUN%2C%20INDONESIA-FFFFFF?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20INTERNSHIP-000000?style=for-the-badge&labelColor=FFFFFF&color=000000" />
+  <img src="https://img.shields.io/badge/LOCATION-MADIUN%2C%20INDONESIA-FFFFFF?style=for-the-badge&labelColor=000000&color=FFFFFF" />
 </p>
 
 ---
 
-###  About Me
+### About Me
 
 Mahasiswa semester 5 **Teknologi Rekayasa Otomasi** di Politeknik Negeri Madiun. Fokus di **Industrial IoT**, **PLC Programming**, dan **SCADA Systems**. Sedang mencari kesempatan **internship** di bidang otomasi industri.
 
--  **D4 Automation Engineering** · Politeknik Negeri Madiun
--  **Focus:** Industrial IoT · PLC · SCADA · Embedded System
--  **Tools:** Siemens TIA Portal · Hiwell SCADA · CX-One (Omron)
+- **D4 Automation Engineering** · Politeknik Negeri Madiun
+- **Focus:** Industrial IoT · PLC · SCADA · Embedded System
+- **Tools:** Siemens TIA Portal · Hiwell SCADA · CX-One (Omron)
 
 ---
 
-### Connect
+###  Connect
 
 <p align="center">
   <a href="mailto:abiroots22@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF" /></a>
@@ -56,8 +57,8 @@ Mahasiswa semester 5 **Teknologi Rekayasa Otomasi** di Politeknik Negeri Madiun.
 
 **SCADA & Protocol**
 
-![SCADA](https://img.shields.io/badge/Hiwell_SCADA-000000?style=flat-square)
-![Modbus](https://img.shields.io/badge/Modbus-000000?style=flat-square)
+![SCADA](https://img.shields.io/badge/Hiwell_SCADA-000000?style=flat-square&logoColor=FFFFFF)
+![Modbus](https://img.shields.io/badge/Modbus-000000?style=flat-square&logoColor=FFFFFF)
 ![MQTT](https://img.shields.io/badge/MQTT-000000?style=flat-square&logo=mqtt&logoColor=FFFFFF)
 ![Node-RED](https://img.shields.io/badge/Node--RED-000000?style=flat-square&logo=nodered&logoColor=FFFFFF)
 
@@ -86,4 +87,12 @@ Mahasiswa semester 5 **Teknologi Rekayasa Otomasi** di Politeknik Negeri Madiun.
 ---
 
 
+
+<!-- ═══════════ FOOTER WAVE HITAM + TULISAN ═══════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=footer&text=Abimanyu%20Erwantama&fontSize=32&fontColor=FFFFFF&animation=twinkling&fontAlignY=60&desc=Measure%20%C2%B7%20Model%20%C2%B7%20Automate&descAlignY=82&descSize=14" width="100%" />
+</p>
+
+<p align="center">
+  <i>"Measure, Model, Automate."</i>
 </p>
